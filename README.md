@@ -1,3 +1,18 @@
+# by Neeta - 101331989
+
+Following is the main view of the application. It requires user to enter the City and extracts the weather information using axios. User can add city name in the search bar and hit the Search button to get wether information. 
+
+![alt text](app_clip_1.png "App view")
+
+Following are view of the weather data accessed through GET request through Postman.
+
+![alt text](app_clip_2.png "Postman view-1")
+
+![alt text](app_clip_3.png "Postman view-2")
+
+![alt text](app_clip_4.png "Postman view-3")
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
